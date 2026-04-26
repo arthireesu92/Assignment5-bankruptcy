@@ -1,8 +1,8 @@
-Assignment 5 – Bankruptcy Prediction using XGBoost
+**Assignment 5 – Bankruptcy Prediction using XGBoost**
 
 Student:** Arthi Reesu
 
-🔷 1. Project Overview
+🔷 1. **Project Overview**
 
 This project focuses on building a **binary classification model** to predict whether a company is likely to go bankrupt based on financial indicators. The goal is not only to produce a predictive model but to follow a **complete and structured machine learning workflow** that reflects best practices used in real-world data science projects.
 
@@ -150,7 +150,7 @@ Five experiments were conducted using a consistent evaluation framework:
 
    * Evaluates performance using fewer features
 
- 🔷 7. Evaluation Metrics
+** 🔷 7. Evaluation Metrics**
 
 Due to class imbalance, accuracy is not suitable as a primary metric.
 
@@ -252,7 +252,7 @@ All outputs were reviewed and verified manually.
 
 Initial suggestions prioritizing accuracy were corrected to use PR-AUC due to class imbalance.
 
- Conclusion
+ **Conclusion**
 
 This project demonstrates a complete and structured approach to solving an imbalanced classification problem.
 
